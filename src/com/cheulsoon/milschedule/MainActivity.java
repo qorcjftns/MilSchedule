@@ -1,6 +1,9 @@
 package com.cheulsoon.milschedule;
 
-public class MainActivity extends AppCompatActivity {
+import android.app.Activity;
+import android.os.Bundle;
+
+public class MainActivity extends Activity {
     
     @Override
     public void onCreate(Bundle savedInstanceState) {
